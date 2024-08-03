@@ -7,8 +7,8 @@
 - ⚡ Fun fact: ...
 
 ## My Skills
-| Topic |  Web Design | Graphic | Python | Linux | PHP | Volleyball
---------------------------------------------------------------------
+| Topic |  Web Design | Graphic | Python | Linux | PHP | Volleyball |   
+| ---   | ---         |  ---    | ---    | ---   | --- | --- | 
 |Level  |    C        |  C      |  B     |  C    | C   |  A
 
 <!---
